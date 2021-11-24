@@ -1,0 +1,9 @@
+WJ1145   24    6     
+Tom                Harris              403-100-0000         6A  10000
+Jim                Li                  403-003-0000         23C 10002
+Kim                Harris              403-100-0001         6D  10003
+Ali                Hassan              403-003-0300         23A 10005
+Martine Olivier    Van Paris           403-100-3000         16A 10006
+Bobby              Joe                 403-967-5834         5D  10007
+Ann Marie          Jacobs              403-903-5555         12C 10008
+Bob                Jacobs              403-888-9922         12E 10009

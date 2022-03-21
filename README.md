@@ -1,4 +1,4 @@
-# Portfolio - Emmanuel K. Omari-Osei
+# Emmanuel K. Omari-Osei - Portfolio
 
 **This repository serves as a showcase of my efforts in both current and past assignments and projects, for academic and personal applications.**
 

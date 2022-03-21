@@ -8,6 +8,6 @@
 * **Flight Control Program** - Flight Seat Management and Booking Program
 * **ME** - 2D Platformer Game Prototype
 * **MNHL** - Top-Down Canadian Themed Hockey Game
-* **UDP Micro-Server Project** - TCP Server that connects to Micro-Server hosted mirco-services 
+* **UDP Micro-Server Project** - TCP Server that connects to UDP Micro-Server hosted mirco-services 
 * **Website Proxy Server** - Browser TCP Proxy Server
 * **Super Space Invaders!** - Top-Down Shoot'em Up Game

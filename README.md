@@ -7,7 +7,7 @@
 * **Flight Control Program** - Flight Seat Management and Booking Program
 * **SQL Database Management Program** - SQL Database Manager for Furniture Sales
 * **ME** - 2D Platformer Game Prototype
-* **Cube Runner Game** - 3D Runner Game aimed for Mobile Devices
+* **Cube Runner** - 3D Runner Game aimed for Mobile Devices
 * **MNHL** - Top-Down Canadian Themed Hockey Game
 * **Website Proxy Server** - Browser TCP Proxy Server
 * **Super Space Invaders!** - Top-Down Shoot'em Up Game

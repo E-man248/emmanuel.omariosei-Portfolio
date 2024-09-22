@@ -1,8 +1,9 @@
 # Emmanuel K. Omari-Osei - Portfolio
 
-**This repository serves as a showcase of my efforts in both current and past assignments and projects, for academic and personal applications.**
+**This repository showcases current and past projects made for work, academic, and personal purposes.**
 
 ## Contents Include:
+* **Handheld Grocery Inventory Scanning Application** - A revamped, modern Android application replacing grocery item scanning, signage, expiration logging, and inventory applications. Built for and sponsored by Calgary Co-Op.
 * **Zeitghast** - Full Platformer Game Developed with Unity and C#. Available on the Steam Store: https://store.steampowered.com/app/2593070/Zeitghast/   
 * **UDP Micro-Server Project** - TCP Server that connects to UDP Micro-Server hosted mirco-services 
 * **Flight Control Program** - Flight Seat Management and Booking Program
